@@ -1,0 +1,86 @@
+HTML5 EXAMPLE WITH EXPLANATION
+FORMS EXAMPLE WITH EXPLANATION
+<!DOCTYPE html> <!-- Defines the document type as HTML5
+-->
+<html> <!-- Start of HTML document -->
+<head> <!-- Head section of the document -->
+ <title>HTML5 Example</title> <!-- Title of the web page
+-->
+</head>
+<body> <!-- Body section of the document -->
+ <header> <!-- Header section -->
+ <h1>Welcome to HTML5</h1> <!-- Main heading -->
+ </header>
+ <nav> <!-- Navigation section -->
+ <ul> <!-- Unordered list -->
+ <li><a href="#">Home</a></li> <!-- List item with
+link -->
+ <li><a href="#">About</a></li> <!-- List item with
+link -->
+ </ul>
+ </nav>
+ <main> <!-- Main content section -->
+ <p>This is a HTML5 example.</p> <!-- Paragraph -->
+ </main>
+ <footer> <!-- Footer section -->
+ <p>Copyright 2023</p> <!-- Copyright notice -->
+ </footer>
+</body> <!-- End of body section -->
+</html> <!-- End of HTML document -->
+<!DOCTYPE html> <!-- Defines the document type as HTML5
+-->
+<html> <!-- Start of HTML document -->
+<head> <!-- Head section of the document -->
+ <title>Form Example</title> <!-- Title of the web page
+-->
+TABLES EXAMPLE WITH EXPLANATION
+</head>
+<body> <!-- Body section of the document -->
+ <form action="/submit" method="post"> <!-- Form with
+POST method -->
+ <label for="username">Username:</label> <!-- Label
+for username input -->
+ <input type="text" id="username" name="username">
+<!-- Text input for username -->
+ <label for="password">Password:</label> <!-- Label
+for password input -->
+ <input type="password" id="password" name="password">
+<!-- Password input -->
+ <input type="submit" value="Submit"> <!-- Submit
+button -->
+ </form> <!-- End of form -->
+</body> <!-- End of body section -->
+</html> <!-- End of HTML document -->
+<!DOCTYPE html> <!-- Defines the document type as HTML5
+-->
+<html> <!-- Start of HTML document -->
+<head> <!-- Head section of the document -->
+ <title>Table Example</title> <!-- Title of the web page
+-->
+</head>
+<body> <!-- Body section of the document -->
+ <table border="1"> <!-- Table with border -->
+ <thead> <!-- Table header -->
+ <tr> <!-- Table row -->
+ <th>ID</th> <!-- Table header cell -->
+ <th>Name</th> <!-- Table header cell -->
+ <th>Email</th> <!-- Table header cell -->
+ </tr>
+ </thead>
+ <tbody> <!-- Table body -->
+ <tr> <!-- Table row -->
+ <td>1</td> <!-- Table data cell -->
+ <td>John</td> <!-- Table data cell -->
+ <td>john@example.com</td> <!-- Table data cell --
+>
+ </tr>
+ <tr> <!-- Table row -->
+ <td>2</td> <!-- Table data cell -->
+ <td>Jane</td> <!-- Table data cell -->
+ <td>jane@example.com</td> <!-- Table data cell --
+>
+ </tr>
+ </tbody> <!-- End of table body -->
+ </table> <!-- End of table -->
+</body> <!-- End of body section -->
+</html> <!-- End of HTML document -->
